@@ -15,8 +15,8 @@
                 Console.WriteLine("kirjuta sõna yes või midagi muud");
                  word = Console.ReadLine();
             }
-            
 
+            Console.WriteLine("Good Boy!");
         }
     }
 }
